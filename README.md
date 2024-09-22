@@ -67,10 +67,3 @@ To run this project, you will need a **DOS emulator** (such as **DOSBox**) and a
 
 ## Conclusion
 This project was a rewarding challenge. Despite the complexity of coding in assembly language and the limitations it imposes, we successfully implemented a working version of Minesweeper. We learned a lot about interrupts, memory management, and game logic in assembly during the process.
-
-## References
-We consulted the book *Assembly Language Programming and Organization of the IBM PC* by **Ytha Yu and Charles Marut** for help with understanding interrupts and other assembly language concepts. We also received guidance and support from our teachers:
-- **Dr. Rumana Nazmul**
-- **Anna Fariha**
-- **Muhammad Tawfiqul Islam**
-
