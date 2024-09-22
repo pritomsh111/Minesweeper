@@ -45,16 +45,16 @@ To run this project, you will need a **DOS emulator** (such as **DOSBox**) and a
 ## Screenshots
 
 ### 1. Menu Screen
-![Menu Screen](https://user-images.githubusercontent.com/your_image_path_1)
+![Menu Screen](./assets/1.png)
 
 ### 2. Playing the Game
-![Playing the Game](https://user-images.githubusercontent.com/your_image_path_2)
+![Playing the Game](./assets/2.png)
 
 ### 3. Game Over (Hitting a Mine)
-![Hitting Mine](https://user-images.githubusercontent.com/your_image_path_3)
+![Hitting Mine](./assets/3.png)
 
 ### 4. Winning the Game
-![Winning Screen](https://user-images.githubusercontent.com/your_image_path_4)
+![Winning Screen](./assets/4.png)
 
 ## Project Team
 - **Jargis Ahmed** (Roll 04)
